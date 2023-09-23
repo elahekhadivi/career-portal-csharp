@@ -1,0 +1,40 @@
+	syntax = "proto3";
+
+	import "google/protobuf/timestamp.proto";
+	import "google/protobuf/wrappers.proto";
+	import "google/protobuf/empty.proto";
+
+	option csharp_namespace = "CareerCloud.gRPC";
+
+	package CareerCloud.gRPC;
+
+	// The greeting service definition.
+	service CompanyDescriptionService {
+	  // Sends a greeting
+	  rpc GetCompanyDescription (IdCompanyDescriptionRequest) returns (CompanyDescription);
+	  rpc GetCompanyDescriptions (google.protobuf.Empty) returns (CompanyDescriptions);
+	  rpc AddCompanyDescriptions (CompanyDescriptions) returns (google.protobuf.Empty);
+	  rpc UpdateCompanyDescriptions (CompanyDescriptions) returns (google.protobuf.Empty);
+	  rpc DeleteCompanyDescriptions (CompanyDescriptions) returns (google.protobuf.Empty);
+	}
+
+	// The request message containing the user's name.
+	message IdCompanyDescriptionRequest {
+	  string Id = 1;
+	}
+
+	// The response message containing the greetings.
+	message CompanyDescription {
+
+	  string Id = 1;
+	  string Company = 2;
+	  string LanguageId = 3;
+	  string CompanyName = 4;
+	  string CompanyDescription1 = 5;
+
+	}
+
+	message CompanyDescriptions {
+		repeated CompanyDescription CODesc = 1;
+	}
+

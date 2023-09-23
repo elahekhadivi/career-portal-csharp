@@ -1,0 +1,36 @@
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "CareerCloud.gRPC";
+
+package greet;
+
+// The greeting service definition.
+service CompanyJobService {
+  // Sends a greeting
+   rpc GetCompanyJob (CompanyJobIdRequest) returns (CompanyJob);
+  rpc GetCompanyJobs (google.protobuf.Empty) returns (CompanyJobs);
+  rpc AddCompanyJobs (CompanyJobs) returns (google.protobuf.Empty);
+  rpc UpdateCompanyJobs (CompanyJobs) returns (google.protobuf.Empty);
+  rpc DeleteCompanyJobs (CompanyJobs) returns (google.protobuf.Empty);
+}
+
+// The request message containing the user's name.
+message CompanyJobIdRequest {
+  string Id = 1;
+}
+
+// The response message containing the greetings.
+message CompanyJob {
+    string Id = 1;
+    string Company =2;
+    google.protobuf.Timestamp ProfileCreated = 3 ;
+    bool IsInactive = 4;
+    bool IsCompanyHidden = 5;
+}
+
+message CompanyJobs{
+    repeated CompanyJob COJ = 1;
+}

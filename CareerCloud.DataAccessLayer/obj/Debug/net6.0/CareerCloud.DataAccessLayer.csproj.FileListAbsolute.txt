@@ -1,0 +1,45 @@
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-4-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\Elahe Khadivi\source\repos\NET.12-5-Elahe-Khadivi-N01561470 - Copy (2)\CareerCloud\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.pdb

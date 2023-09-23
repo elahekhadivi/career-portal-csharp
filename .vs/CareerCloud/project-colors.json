@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4af64a8e-4da8-4225-a007-9304b6e3c448": {
+      "ProjectGuid": "4af64a8e-4da8-4225-a007-9304b6e3c448",
+      "DisplayName": "CareerCloud.Pocos",
+      "ColorIndex": 0
+    },
+    "bf96c49b-b589-4442-8208-c78d919f9dbe": {
+      "ProjectGuid": "bf96c49b-b589-4442-8208-c78d919f9dbe",
+      "DisplayName": "CareerCloud.DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "3a347491-91b8-4549-8f54-c7f87b1f96ac": {
+      "ProjectGuid": "3a347491-91b8-4549-8f54-c7f87b1f96ac",
+      "DisplayName": "CareerCloud.ADODataAccessLayer",
+      "ColorIndex": 2
+    },
+    "79662436-f237-4a9a-b3b4-82f96d08eb25": {
+      "ProjectGuid": "79662436-f237-4a9a-b3b4-82f96d08eb25",
+      "DisplayName": "CareerCloudCore.UnitTests.2.Repository",
+      "ColorIndex": 3
+    },
+    "e24ece4c-629c-403b-bb3a-f20ff0292b74": {
+      "ProjectGuid": "e24ece4c-629c-403b-bb3a-f20ff0292b74",
+      "DisplayName": "CareerCloudCore.UnitTests.1.Poco",
+      "ColorIndex": 4
+    },
+    "c93100ab-ebda-41b0-8333-45712a3d0d40": {
+      "ProjectGuid": "c93100ab-ebda-41b0-8333-45712a3d0d40",
+      "DisplayName": "CareerCloud.BusinessLogicLayer",
+      "ColorIndex": 5
+    },
+    "10812490-a38f-4ddf-ae8a-cfb6083c41ab": {
+      "ProjectGuid": "10812490-a38f-4ddf-ae8a-cfb6083c41ab",
+      "DisplayName": "CareerCloudCore.UnitTests.3.EF",
+      "ColorIndex": 6
+    },
+    "a469c802-e375-4837-81d8-63e41971881d": {
+      "ProjectGuid": "a469c802-e375-4837-81d8-63e41971881d",
+      "DisplayName": "CareerCloud.BusinessLogicLayer",
+      "ColorIndex": 7
+    },
+    "f0c25916-7921-4431-8704-d5c0a7518e58": {
+      "ProjectGuid": "f0c25916-7921-4431-8704-d5c0a7518e58",
+      "DisplayName": "CareerCloudCore.UnitTests.4.BusinessLogic",
+      "ColorIndex": 8
+    },
+    "431cb7a0-49b8-41d1-9134-62ca3fdc20a9": {
+      "ProjectGuid": "431cb7a0-49b8-41d1-9134-62ca3fdc20a9",
+      "DisplayName": "CareerCloud.EntityFrameworkDataAccess",
+      "ColorIndex": 9
+    },
+    "e99ccb67-b8a0-4331-b61e-5afc3571a1c9": {
+      "ProjectGuid": "e99ccb67-b8a0-4331-b61e-5afc3571a1c9",
+      "DisplayName": "CareerCloud.WebAPI",
+      "ColorIndex": 10
+    },
+    "e31cff62-5fa6-4f95-9bc1-a638b3eda97d": {
+      "ProjectGuid": "e31cff62-5fa6-4f95-9bc1-a638b3eda97d",
+      "DisplayName": "CareerCloudCore.UnitTests.5.WebAPI",
+      "ColorIndex": 11
+    },
+    "06fdb624-ec35-4087-aa6e-89d00d2cfd95": {
+      "ProjectGuid": "06fdb624-ec35-4087-aa6e-89d00d2cfd95",
+      "DisplayName": "CareerCloud.gRPC",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

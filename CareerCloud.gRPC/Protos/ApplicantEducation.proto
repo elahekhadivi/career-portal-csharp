@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "CareerCloud.gRPC";
+
+package CareerCloud.gRPC;
+
+// The greeting service definition.
+service ApplicantEducationService {
+  // Sends a greeting
+  rpc GetApplicantEducation (IdRequest) returns (ApplicantEducation);
+  rpc GetApplicantEducations (google.protobuf.Empty) returns (ApplicantEducations);
+  rpc AddApplicantEducation (ApplicantEducations) returns (google.protobuf.Empty);
+  rpc UpdateApplicantEducations (ApplicantEducations) returns (google.protobuf.Empty);
+  rpc DeleteApplicantEducations (ApplicantEducations) returns (google.protobuf.Empty);
+}
+
+// The request message containing the user's name.
+message IdRequest {
+  string Id = 1;
+}
+
+// The response message containing the greetings.
+message ApplicantEducation {
+  string Id = 1;
+  string Applicant = 2;
+  string Major = 3;
+  string CertificateDiploma = 4;
+  google.protobuf.Timestamp StartDate = 5;
+  google.protobuf.Timestamp CompletionDate = 6;
+  google.protobuf.Int32Value CompletionPercent = 7;
+}
+
+message ApplicantEducations {
+	repeated ApplicantEducation AppEdu = 1;
+}

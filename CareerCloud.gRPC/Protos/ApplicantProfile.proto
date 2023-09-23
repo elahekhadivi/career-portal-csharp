@@ -1,0 +1,54 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "CareerCloud.gRPC";
+
+package CareerCloud.gRPC;
+
+// The greeting service definition.
+service ApplicantProfileService {
+  // Sends a greeting
+  rpc GetApplicantProfile (IdApplicantProfileRequest) returns (ApplicantProfile);
+  rpc GetApplicantProfiles (google.protobuf.Empty) returns (ApplicantProfiles);
+  rpc AddApplicantProfiles (ApplicantProfiles) returns (google.protobuf.Empty);
+  rpc UpdateApplicantProfiles (ApplicantProfiles) returns (google.protobuf.Empty);
+  rpc DeleteApplicantProfiles (ApplicantProfiles) returns (google.protobuf.Empty);
+}
+
+// The request message containing the user's name.
+message IdApplicantProfileRequest {
+  string Id = 1;
+}
+
+// The response message containing the greetings.
+message ApplicantProfile {
+
+  string Id = 1;
+  string Login = 2;
+  DecimalValue CurrentSalary = 3;
+  DecimalValue CurrentRate = 4;
+  string Currency = 5;
+  string Country = 6;
+  string Province = 7;
+  string Street = 8;
+  string City = 9;
+  string PostalCode  = 10;
+  
+}
+
+message ApplicantProfiles {
+	repeated ApplicantProfile AppJob = 1;
+}
+
+message DecimalValue {
+
+  // Whole units part of the amount
+  int64 units = 1;
+
+  // Nano units of the amount (10^-9)
+  // Must be same sign as units
+  sfixed32 nanos = 2;
+}

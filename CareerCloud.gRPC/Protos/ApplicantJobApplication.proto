@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "CareerCloud.gRPC";
+
+package CareerCloud.gRPC;
+
+// The greeting service definition.
+service ApplicantJobApplicationService {
+  // Sends a greeting
+  rpc GetApplicantJobApplication (IdApplicantJobApplicationRequest) returns (ApplicantJobApplication);
+  rpc GetApplicantJobApplications (google.protobuf.Empty) returns (ApplicantJobApplications);
+  rpc AddApplicantJobApplications (ApplicantJobApplications) returns (google.protobuf.Empty);
+  rpc UpdateApplicantJobApplications (ApplicantJobApplications) returns (google.protobuf.Empty);
+  rpc DeleteApplicantJobApplications (ApplicantJobApplications) returns (google.protobuf.Empty);
+}
+
+// The request message containing the user's name.
+message IdApplicantJobApplicationRequest {
+  string Id = 1;
+}
+
+// The response message containing the greetings.
+message ApplicantJobApplication {
+  string Id = 1;
+  string Applicant = 2;
+  string Job = 3;
+  google.protobuf.Timestamp ApplicationDate = 4;
+}
+
+message ApplicantJobApplications {
+	repeated ApplicantJobApplication AppJob = 1;
+}
